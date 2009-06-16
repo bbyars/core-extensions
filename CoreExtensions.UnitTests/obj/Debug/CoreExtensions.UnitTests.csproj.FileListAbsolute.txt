@@ -1,0 +1,9 @@
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\CoreExtensions.UnitTests.dll
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\CoreExtensions.UnitTests.pdb
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\CoreExtensions.dll
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\nunit.framework.dll
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\nunit.framework.xml
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\bin\Debug\CoreExtensions.pdb
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\obj\Debug\CoreExtensions.UnitTests.dll
+C:\dev\CoreExtensions\CoreExtensions.UnitTests\obj\Debug\CoreExtensions.UnitTests.pdb

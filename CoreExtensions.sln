@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreExtensions", "CoreExtensions\CoreExtensions.csproj", "{B5A8AF8C-CA03-4E87-9FCA-543DE99A1279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreExtensions.UnitTests", "CoreExtensions.UnitTests\CoreExtensions.UnitTests.csproj", "{EB4C500C-35CE-4E80-A224-C2420AB2FC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A8AF8C-CA03-4E87-9FCA-543DE99A1279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A8AF8C-CA03-4E87-9FCA-543DE99A1279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A8AF8C-CA03-4E87-9FCA-543DE99A1279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A8AF8C-CA03-4E87-9FCA-543DE99A1279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4C500C-35CE-4E80-A224-C2420AB2FC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4C500C-35CE-4E80-A224-C2420AB2FC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4C500C-35CE-4E80-A224-C2420AB2FC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4C500C-35CE-4E80-A224-C2420AB2FC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -99,5 +99,12 @@ namespace CoreExtensions.UnitTests
         {
             Assert.AreEqual("{}", ((object)new Hashtable()).PrettyPrint());
         }
+
+        [Test]
+        public void AddingOverload()
+        {
+            PrettyPrintExtensions.Set<bool>(x => x ? "Y" : "N");
+            Assert.AreEqual("Y", true.PrettyPrint());
+        }
     }
 }

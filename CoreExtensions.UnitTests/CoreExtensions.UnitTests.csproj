@@ -46,8 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EnumerableExtensionsTest.cs" />
-    <Compile Include="PrettyPrintExtensionsTest.cs" />
+    <Compile Include="PrettyPrinterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValueComparerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CoreExtensions\CoreExtensions.csproj">

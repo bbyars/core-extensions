@@ -1,5 +1,0 @@
-C:\dev\CoreExtensions\CoreExtensions\bin\Debug\CoreExtensions.dll
-C:\dev\CoreExtensions\CoreExtensions\bin\Debug\CoreExtensions.pdb
-C:\dev\CoreExtensions\CoreExtensions\obj\Debug\ResolveAssemblyReference.cache
-C:\dev\CoreExtensions\CoreExtensions\obj\Debug\CoreExtensions.dll
-C:\dev\CoreExtensions\CoreExtensions\obj\Debug\CoreExtensions.pdb

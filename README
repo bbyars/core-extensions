@@ -1,0 +1,6 @@
+1. What is CoreExtensions
+
+CoreExtensions is my attempt at providing some base extension methods to make
+some of the .NET API easier to work with.
+
+2. Examples
